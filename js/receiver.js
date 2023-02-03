@@ -50,7 +50,7 @@ const ID_REGEX = '\/?([^\/]+)\/?$';
  * Debug Logger
  */
 const castDebugLogger = cast.debug.CastDebugLogger.getInstance();
-const LOG_RECEIVER_TAG = 'Receiver';
+const LOG_RECEIVER_TAG = 'MM Receiver';
 
 /*
  * WARNING: Make sure to turn off debug logger for production release as it
