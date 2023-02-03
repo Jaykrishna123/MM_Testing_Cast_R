@@ -16,7 +16,7 @@ limitations under the License.
 
 import { CastQueue } from './queuing.js';
 import { MediaFetcher } from './media_fetcher.js';
-import { CastRecvAdapter } from './mmsmartstreaming_chromecastplayer.min.js';
+// import { CastRecvAdapter } from './mmsmartstreaming_chromecastplayer.min.js';
 import { AdsTracker, SenderTracker, ContentTracker } from './cast_analytics.js';
 
 /**
