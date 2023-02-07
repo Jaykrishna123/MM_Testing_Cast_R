@@ -36,7 +36,7 @@ const playerManager = context.getPlayerManager();
 
 var castMM = new CastRecvAdapter();
 if (castMM.getRegistrationStatus() === false) {
-  castMM.registerMMSmartStreaming("castRecv", 424847541, "guest", "domainName", "guest");
+  castMM.registerMMSmartStreaming("castRecv", 476976526, "guest", "domainName", "guest");
   castMM.reportPlayerInfo("gCast", "gCast", "2.2.2");
 }
 castMM.initialize(playerManager);
